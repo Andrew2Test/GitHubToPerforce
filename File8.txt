@@ -1,0 +1,1 @@
+This will be second line of text in File8.txt after merge
